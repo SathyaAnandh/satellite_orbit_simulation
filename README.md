@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This project simulates the motion of satellites orbiting around the Earth using fundamental principles of orbital mechanics. The simulation visually demonstrates how a satellite moves in a curved path due to the gravitational force exerted by the Earth.
+This project simulates the motion of satellites orbiting around the Earth using fundamental principles of orbital mechanics. The simulation visually demonstrates how a satellite moves in a curved path due to the gravitational force exerted by the Earth, the concepts from orbital mechanics and satellite motion using numerical simulation.
 
 The Earth is placed at the center, and satellites revolve around it in real time, showing how velocity and gravity combine to maintain stable orbits.
 
@@ -16,8 +16,6 @@ The Earth is placed at the center, and satellites revolve around it in real time
 * Visual Studio Code (VS Code)
 
 ---
-
-## ▶️ Steps to Run the Program
 
 ## ▶️ Steps to Run the Program
 
