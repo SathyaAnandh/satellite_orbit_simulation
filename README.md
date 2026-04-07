@@ -125,7 +125,7 @@ This creates a smooth and continuous orbit.
 ## 📸 Output
 
 ![Simulation Output](output.png)
-
+![Simulation Output](output1.png)
 ---
 
 ## 📁 Project Structure
